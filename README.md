@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @sroshc
+Programming is alright, I guess
